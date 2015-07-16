@@ -9,6 +9,7 @@ Cloundinary also does not handle non-image files<sup>[1](OPTIONS.md#user-content
 RTE Insertion:
 - Modify Cloudinary TinyMCE plugin to upload to a known path (per page).
 - Modify Cloudinary plugin to allow selection of images. (So an upload now adds a file to the path, but doesn't automatically select it.)
+ - There may be an existing TinyMCE plugin that we can use to start from (e.g. the [default image plugin](http://www.tinymce.com/wiki.php/Plugin:image) accepts an array for images to select from. I haven't seen that in action.
 
 Files:
 - Use a similar approach as cloundinary, but do the uploading to Amazon S3 directly.
