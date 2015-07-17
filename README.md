@@ -22,6 +22,9 @@ For further discussion, see other files:
 ## Keystone Code, Issues, and PRs
 
 The below are helpful items scattered across the keystone codebase and github project:
+- [Elemental UI](https://github.com/elementalui/elemental)
+ - This is where the action is currently, building new React based admin elements.
+
 - [File Fields, PR #1222](https://github.com/keystonejs/keystone/pull/1222)
  - The work is in the file-fields branch which may have been complete or near when last it was touched in late April, 2015. (See [creyners comment Mar 26](https://github.com/keystonejs/keystone/pull/1222#issuecomment-86541326) with a checklist).
  - Currently, [the file-fields branch](https://github.com/keystonejs/keystone/tree/file-fields) is 223 commits behind master.   
