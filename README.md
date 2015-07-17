@@ -18,6 +18,7 @@ For the managing of files, we need to be able to see what files are uploaded and
 For further discussion, see other files:
 - [Source Code Notes and Breadcrumbs](SOURCE-NOTES.md) 
 - [OPTIONS.md](OPTIONS.md)
+- [Lionite Images plugin review](lionite-images/15-07-JP-Review.md): interesting to see a simple plugin setup.
 
 ## Keystone Code, Issues, and PRs
 
