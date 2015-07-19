@@ -40,3 +40,10 @@ The below are helpful items scattered across the keystone codebase and github pr
 - [KeystoneJS/storage / "storage.js"](https://github.com/keystonejs/storage)
  - See also [Issue #526](https://github.com/keystonejs/keystone/issues/526)
  - Reviewed notes: ["/storage.js"](https://github.com/jeffreypriebe/keystone-images-docs/tree/master/Storage.js)
+
+
+## Other Resources, References
+ 
+ - [Cloudinary plugin for TinyMCE](https://github.com/cloudinary/cloudinary_tinymce)
+  - Works in old TinyMCE (3.x not current 4.x [4.1.7 in KSJS 0.3.12])
+  - Works by uploading directly in browser - cross-domain request.
