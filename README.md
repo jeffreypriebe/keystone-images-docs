@@ -1,3 +1,6 @@
+If you want to skip to the end and see the final result here:
+https://github.com/jeffreypriebe/keystone/tree/integrated-insert-view-images/admin/public/js/lib/tinymce/plugins/cloudinarybrowser/docs
+
 # Keystone Images
 Discussion and Docs on approach for image picker for Keystone TinyMCE Rich Text Editor.
 
